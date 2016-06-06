@@ -98,3 +98,6 @@ SQLを速くするたった3つの原則　～SQLチューニングは職人技�
 	- ローカル索引
 	- WITH句でまとめる
 	- CUBE
+- <http://app.m-cocolog.jp/t/typecast/121907/106341/84809731>
+	- 索引と NULL
+	- カバリングインデックスと NULL
