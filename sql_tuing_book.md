@@ -99,5 +99,5 @@ SQLを速くするたった3つの原則　～SQLチューニングは職人技�
 	- WITH句でまとめる
 	- CUBE
 - <http://app.m-cocolog.jp/t/typecast/121907/106341/84809731>
-	- 索引と NULL
-	- カバリングインデックスと NULL
+	- NULL許容列の単一列索引は IS NOT NULL の検索に使われる
+	- NOT NULL列を含む複合索引は IS NULL の検索に使われる
