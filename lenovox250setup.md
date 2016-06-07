@@ -26,5 +26,12 @@
 
 - Chrome
 	- https://www.google.co.jp/chrome/browser/desktop/index.html
-- ATOM Editor
+- ATOM
 	- https://atom.io/
+	- packages
+		- git-plus
+		- git-control
+- GitHub Desktop
+	- https://desktop.github.com/
+- Cygwin for 64-bit versions of Windows
+	- https://cygwin.com/install.html
