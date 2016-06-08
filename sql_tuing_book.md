@@ -101,3 +101,7 @@ SQLを速くするたった3つの原則　～SQLチューニングは職人技�
 - <http://app.m-cocolog.jp/t/typecast/121907/106341/84809731>
 	- NULL許容列の単一列索引は IS NOT NULL の検索に使われる
 	- NOT NULL列を含む複合索引は IS NULL の検索に使われる
+- <http://app.m-cocolog.jp/t/typecast/121907/106341/61558002>
+	- ユニーク制約に非ユニーク索引をつかえる
+	- 制約作成時に明示指定しなくても使える索引があると自動的使われる
+	- 一意制約のチェックには最低 INDEX RANGE SCAN 出来る必要がある？
