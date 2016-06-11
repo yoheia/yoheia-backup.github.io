@@ -35,3 +35,9 @@
 	- https://desktop.github.com/
 - Cygwin for 64-bit versions of Windows
 	- https://cygwin.com/install.html
+- サクラエディタ V2(Unicode版)
+	- http://sakura-editor.sourceforge.net/download.html
+- 秀丸エディタ64bit版
+	- http://hide.maruo.co.jp/software/hidemaru64.html
+- TortoiseSVN
+	- https://osdn.jp/projects/tortoisesvn/
