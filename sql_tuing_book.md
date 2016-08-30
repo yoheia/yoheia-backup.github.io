@@ -90,40 +90,29 @@ SQLを速くするたった3つの原則　～SQLチューニングは職人芸�
 	- ハマりやすい制限値一覧
 	- 突然SQL性能劣化時の原因切り分けチェックシート
 
-### コラム
-- これだけは押さえておこう待ち行列理論
-- 知って損はない USE メソッド
-- アムダールの当たり前な法則
-- RDBMSとクエリーオプティマイザの歴史(実は珍しいルールベース)
-- Oracle Database が流行った理由(マルチプロセス、ルールベース、MVCC、RAC)
-- Oracle Database の性能分析メソッドの歴史
-- 知ってるつもり？レスポンスとスループット
-- プロセスの状態遷移が分かると待機イベントが分かる
-- 実行計画のオペレーションは関数名と一致する
-- sort するとなぜ consistent gets が減るか
-- V$SQL_HINT で使えるヒントを調べる
-- Exadata のI/Oが魔法のように速い理由
-- Oracle Database In Memory のコンセプト
+- コラム
+	- これだけは押さえておこう待ち行列理論
+	- 知って損はない USE メソッド
+	- アムダールの当たり前な法則
+	- RDBMSとクエリーオプティマイザの歴史(実は珍しいルールベース)
+	- Oracle Database が流行った理由(マルチプロセス、ルールベース、MVCC、RAC)
+	- Oracle Database の性能分析メソッドの歴史
+	- 知ってるつもり？レスポンスとスループット
+	- プロセスの状態遷移が分かると待機イベントが分かる
+	- 実行計画のオペレーションは関数名と一致する
+	- sort するとなぜ consistent gets が減るか
+	- V$SQL_HINT で使えるヒントを調べる
+	- Exadata のI/Oが魔法のように速い理由
+	- Oracle Database In Memory のコンセプト
 
+- 推薦書籍
+	- Oracle Core
+	- Pro Oracle SQL
+	- Troubleshooting Oracle Performance
+	- Expart Oracle SQL
+	- Cost Base Fundamentals
 
-### Appendix(チートシート)
-- コンピュータのキャッシュ階層とレイテンシ
-- 実行計画の取得方法
-- 実行計画の読み方
-- 実行計画の種類
-- 統計情報の種類と収集方法
-- ヒント句の種類
-- ハマりやすい制限値一覧
-- 突然SQL性能劣化時の原因切り分けチェックシート
-
-### 推薦書籍
-- Oracle Core
-- Pro Oracle SQL
-- Troubleshooting Oracle Performance
-- Expart Oracle SQL
-- Cost Base Fundamentals
-
-### 参考情報
+### メモ
 - <http://app.m-cocolog.jp/t/typecast/121907/106341/68994334>
 	- パーティション選択ミス
 	- ファンクション索引
