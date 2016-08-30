@@ -107,7 +107,12 @@ SQLを速くするたった3つの原則　～SQLチューニングは職人芸�
 - ハマりやすい制限値一覧
 - 突然SQL性能劣化時の原因切り分けチェックシート
 
-### 参考書籍
+### 推薦書籍
+- Oracle Core
+- Pro Oracle SQL
+- Troubleshooting Oracle Performance
+- Expart Oracle SQL
+- Cost Base Fundamentals
 
 ### ケーススタディ
 - <http://app.m-cocolog.jp/t/typecast/121907/106341/68994334>
