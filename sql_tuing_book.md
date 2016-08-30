@@ -114,7 +114,7 @@ SQLを速くするたった3つの原則　～SQLチューニングは職人芸�
 - Expart Oracle SQL
 - Cost Base Fundamentals
 
-### ケーススタディ
+### 参考情報
 - <http://app.m-cocolog.jp/t/typecast/121907/106341/68994334>
 	- パーティション選択ミス
 	- ファンクション索引
