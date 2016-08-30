@@ -93,7 +93,7 @@ SQLを速くするたった3つの原則　～SQLチューニングは職人芸�
 - 実行計画のオペレーションは関数名と一致する
 - sort するとなぜ consistent gets が減るか
 - V$SQL_HINT で使えるヒントを調べる
-- Exadata は魔法のように速い理由
+- Exadata のI/Oが魔法のように速い理由
 - Oracle Database In Memory のコンセプト
 
 
